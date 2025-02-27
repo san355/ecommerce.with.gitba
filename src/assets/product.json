@@ -1,0 +1,72 @@
+[
+    {
+       "id": 1,
+       "name": "Pizza ",
+       "shop": "Pizza Lover",
+       "pic":"image/wind.jpg",
+       "amt": "10 points per dollar spent",
+       "Rewards": "Free pizza after 100 points",
+       "Benefits": "Exclusive discounts, free delivery"
+    },
+    {
+
+    "id":2,
+    "name":"Sushi Card",
+    "pic":"image/wind.jpg",
+    "shop": "Sushi Fan",
+    "amt": "12 points per dollar spent",
+    "Rewards": "Free sushi roll after 120 points",
+    "Benefits": "Priority seating, special menu items"
+    },
+    {
+
+    
+    "id":3,
+    "name": "Coffee Card",
+    "pic":"image/wind.jpg",
+    "shop": "Coffee Club",
+    "amt": "5 points per dollar spent",
+    "Rewards": "Free coffee after 50 points",
+    "Benefits": "Free pastry with coffee purchase"
+    },
+    {
+
+    "id":4,
+    "name":"Indian Food Card",
+    "pic":"image/wind.jpg",
+    "shop": "Spice Rewards",
+    "amt": "10 points per dollar spent",
+    "Rewards": "Free entree after 100 points",
+    "Benefits": "Discounted catering, special menu items"
+    },
+    {
+
+    "id":5,
+    "name":"fiesta",
+    "pic":"image/wind.jpg",
+    "shop":" Fiesta Rewards",
+    "amt": "12 points per dollar spent",
+    "Rewards": "Free taco after 120 points",
+    "Benefits": "Happy hour discounts, free guacamole"
+    },
+    {
+        
+    "id":6,
+    "name":"Italian Food Card",
+    "pic":"image/wind.jpg",
+    "shop": "Pasta Rewards",
+    "amt": "10 points per dollar spent",
+    "Rewards": "Free pasta dish after 100 points",
+    "Benefits": "Wine discounts, special menu items"
+    },
+    {
+
+    "id":7,
+    "name":" Chinese Food Card",
+    "pic":"image/wind.jpg",
+    "shop":" Wok Rewards",
+    "amt": "12 points per dollar spent",
+    "Rewards": "Free entree after 120 points",
+    "Benefits": "Discounted delivery, special menu items"
+    }
+]
